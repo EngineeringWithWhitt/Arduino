@@ -1,2 +1,2 @@
 # Arduino
-A Collection of Arduino Projects that build off eachother so you can find your own solution.  All code should have Easy-To-Read Comments Intended for Absolute Beginners.  Let's learn something together.
+A collection of Arduino projects that build off eachother so you can find your own solution.  All code should have Easy-To-Read comments, intended for absolute Beginners.  Let's learn something together.
